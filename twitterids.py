@@ -8,8 +8,8 @@ user_url = 'http://api.twitter.com/1/users/lookup.json'
 
 users_folder = 'users/'
 
-def LoadUser(user_filename):
-	with open(user_filename) as f:
+# def LoadUser(user_filename):
+#	with open(user_filename) as f:
 		
 
 def GetUserJSonByName(user_names):
